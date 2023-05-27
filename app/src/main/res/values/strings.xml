@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ListView - Luciano</string>
+
+    <string name="TextView">Seleccione un Planeta</string>
+
+    <string-array name="Planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Neptuno</item>
+    </string-array>
+</resources>
